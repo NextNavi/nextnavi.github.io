@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(6.85604e-14 1024 -1024 5.7245e-14 512 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="0" x2="1" y1="0" y2="0">
+<stop offset="0" stop-color="#bad7f2"/>
+<stop offset="1" stop-color="#9fd1ff"/>
+</linearGradient>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="891.157" id="Filter" width="860.815" x="91.2876" y="94.5783">
+<feDropShadow dx="9.69499" dy="28.1566" flood-color="#8eaecb" flood-opacity="0.742371" in="SourceGraphic" result="Shadow" stdDeviation="25.3935"/>
+</filter>
+<path d="M510.853 591.459L870.746 138.084L655.699 846.185L549.365 780.303L510.853 591.459Z" id="Fill"/>
+<path d="M497.503 420.551L153.254 885.916L350.564 173.746L395.762 360.557L497.503 420.551Z" id="Fill_2"/>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="1024" width="1024" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="图层-1" visibility="hidden">
+<path d="M1024 1024L0 1024L-1.13687e-13 3.1351e-14L1024-1.45038e-13L1024 1024Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<g id="图层-2">
+<g opacity="1">
+<g filter="url(#Filter)">
+<g opacity="1">
+<use fill="#5a95da" fill-rule="nonzero" stroke="none" xlink:href="#Fill"/>
+<mask height="724.458" id="StrokeMask" maskUnits="userSpaceOnUse" width="376.249" x="502.675" y="129.905">
+<rect fill="#ffffff" height="724.458" stroke="none" width="376.249" x="502.675" y="129.905"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask)" stroke="#5a95da" stroke-linecap="butt" stroke-linejoin="round" stroke-width="16.3565" xlink:href="#Fill"/>
+</g>
+<g opacity="1">
+<use fill="#5a95da" fill-rule="nonzero" stroke="none" xlink:href="#Fill_2"/>
+<mask height="728.527" id="StrokeMask_2" maskUnits="userSpaceOnUse" width="360.604" x="145.076" y="165.568">
+<rect fill="#ffffff" height="728.527" stroke="none" width="360.604" x="145.076" y="165.568"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_2"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_2)" stroke="#5a95da" stroke-linecap="butt" stroke-linejoin="round" stroke-width="16.3565" xlink:href="#Fill_2"/>
+</g>
+</g>
+<g opacity="0">
+<g opacity="1">
+<g opacity="1">
+<path d="M153.254 885.916L350.528 158.555L395.752 360.927L153.254 885.916Z" fill="#222a68" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+</g>
+<g opacity="0">
+<g opacity="1">
+<path d="M870.746 138.084L655.713 846.257L548.731 780.128L870.746 138.084Z" fill="#222a68" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+</g>
+<path d="M440.16 512L402.661 354.716L512 417.598L440.16 512Z" fill="#bad7f2" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M541.553 783.411L502.146 588.984L860.253 138.084L541.553 783.411Z" fill="#bad7f2" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</svg>
